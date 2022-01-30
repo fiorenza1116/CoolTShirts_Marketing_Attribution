@@ -1,6 +1,6 @@
 # ***CoolTShirts Marketing Attribution***
 
-
+<img src="Images/CoolTShirts%20Dashboard.png" width="400">
 
 ### ***Description***
 
